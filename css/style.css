@@ -1,0 +1,8 @@
+form{
+   width: 200px; 
+}
+body {
+    background-image: url('fon1.gif'); 
+    background-size: 150% ; /* Изменено с cover на auto */
+    background-position: center; /* Это свойство центрирует изображение на фоне */
+}
